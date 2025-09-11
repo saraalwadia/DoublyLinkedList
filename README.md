@@ -19,4 +19,4 @@ It is a console-based project designed to demonstrate the functionality of a dou
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saraalwadia/doublylinkedlist.git
+   git clone https://github.com/saraalwadia/doubly-linked-list.git
